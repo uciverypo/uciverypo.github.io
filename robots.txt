@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uciverypo.github.io/sitemap.html.gz
+Sitemap: https://uciverypo.github.io/app/sitemap.html.gz
+Sitemap: https://uciverypo.github.io/assets/sitemap.html.gz
+Sitemap: https://uciverypo.github.io/css/sitemap.html.gz
+Sitemap: https://uciverypo.github.io/includes/sitemap.html.gz
+Sitemap: https://uciverypo.github.io/item/sitemap.html.gz
+Sitemap: https://uciverypo.github.io/src/sitemap.html.gz
